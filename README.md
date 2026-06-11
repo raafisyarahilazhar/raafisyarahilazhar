@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sian-Dark.svg" height="35px" style="vertical-align:middle;margin-right:10px;">
   Hi, I'm Raafi! Welcome to my Digital Workshop
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sian-Dark.svg" height="35px" style="vertical-align:middle;margin-left:10px;">
 </h1>
 
 <p align="center">
@@ -90,10 +88,10 @@ Always open to discussions about software engineering, AI, IoT, and cloud techno
 </p>
 
 <p align="center">
-  <a href="mailto:email_anda@domain.com">
+  <a href="mailto:r.syarahilazhar@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=0D1117" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/linkedin_anda/">
+  <a href="https://www.linkedin.com/in/raafi-syarahil-azhar-8a624a393/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0D1117" alt="LinkedIn" />
   </a>
 </p>
