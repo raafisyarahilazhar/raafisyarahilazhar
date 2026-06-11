@@ -77,8 +77,8 @@ I am currently dedicated to advancing in the following fields:
 ## 📈 Dev Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=00e5ff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&theme=tokyonight&hide_border=true&background=0D1117&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raafisyarahilazhar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00e5ff&icon_color=00e5ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raafisyarahilazhar&theme=tokyonight&hide_border=true&background=0D1117&ring=00e5ff&fire=00e5ff&currStreakNum=00e5ff" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
