@@ -53,7 +53,7 @@
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=php,js,python,dart&perline=4" alt="Languages" /> |
-| **Web & Backend** | <img src="https://skillicons.dev/icons?i=laravel,vue,inertia,tailwind&perline=4" alt="Web & Backend" /> |
+| **Web & Backend** | <img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,fastapi,django,tailwind&perline=4" alt="Web & Backend" /> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=flutter&perline=1" alt="Mobile" /> |
 | **Databases & Tools**| <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,linux,vscode,postman&perline=8" alt="Databases & Tools" /> |
 
